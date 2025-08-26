@@ -1,10 +1,10 @@
-# Project Title: Write your project name here
+# Project Title: Linkedin Profile Optimizer
 
 ## Student Details
-- **Name**: Your Full Name  
-- **PRN**: Your PRN  
-- **Year**: FY/SY/TY/Final Year  
-- **Branch**: Your Branch  
+- **Name**: K. Jaya Aditya Datta Chowdary  
+- **PRN**: 25070127045  
+- **Year**: FY
+- **Branch**: Robotics and Automation 
 
 ---
 
@@ -24,8 +24,8 @@ Example:
 ---
 
 ## Tech Stack
-List the tools or languages you used.  
-Example: Python, HTML, CSS, JavaScript, Arduino, etc.
+Tools: Gemini, Groq
+Languages: HTML, CSS, JS
 
 ---
 
